@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Backend Development, Cloud Computing and DevOps
 - 👯 I’m looking forward to collaborate on Open-source Projects
 - 📫 How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/sadham-hussian-m-806988181/),[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:sadhamhussian2020@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/sadham-hussian-m-806988181/)
 - 😄 Portfolio site: &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-❤-orange)](https://sadham-hussian.github.io/)
 - ⚡ Fun fact: Jack of all trades , Master of None!
 
