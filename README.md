@@ -10,7 +10,7 @@
 
 ### Languages and Tools
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/Sadham-Hussian/Sadham-Hussian/blob/master/assets/python.svg" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Sadham-Hussian/Sadham-Hussian/blob/master/assets/c++.svg" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Sadham-Hussian/Sadham-Hussian/blob/master/assets/golang.svg" style="vertical-align:top; margin:4px">
