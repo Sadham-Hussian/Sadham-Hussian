@@ -21,6 +21,9 @@
   <a href="https://www.djangoproject.com/" target="_blank" >
     <img src="https://github.com/Sadham-Hussian/Sadham-Hussian/blob/master/assets/django.svg" height="80" style="vertical-align:top; margin:4px" />
   </a>
+  <a href="https://www.mysql.com/" target="_blank" >
+    <img src="https://github.com/Sadham-Hussian/Sadham-Hussian/blob/master/assets/mysql.png" height="80" style="vertical-align:top; margin:4px" />
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://github.com/Sadham-Hussian/Sadham-Hussian/blob/master/assets/mongo.gif" height="80" style="vertical-align:top; margin:4px" />
   </a>
