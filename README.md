@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadham-hussian&label=Profile%20views&color=0e75b6&style=flat" alt="sadham-hussian" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadham-hussian" alt="sadham-hussian" /></a> </p>
-
 - 🌱 I’m currently learning **Backend Development, Cloud Computing and DevOps**
 
 - 👯 I’m looking to collaborate on **anything interesting.**
