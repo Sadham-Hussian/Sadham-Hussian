@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Sadham Hussian</h1>
 <h3 align="center">A passionate Computer Science student from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadham-hussian&label=Profile%20views&color=0e75b6&style=flat" alt="sadham-hussian" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadham-hussian&label=Profile%20views&color=0e75b6&style=flat" alt="sadham-hussian" width="42" height="42" /> </p>
 
 - 🌱 I’m currently learning **Backend Development, Cloud Computing and DevOps**
 
