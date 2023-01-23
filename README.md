@@ -33,14 +33,14 @@
 
 <!-- <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 1px>-->
 
-<div size='20px'> Hi! I'm Sadham Hussian. A passionate Computer Science student from India. 
-</div>
+<!-- <div size='20px'> Hi! I'm Sadham Hussian. A passionate Computer Science student from India.
+</div> -->
 
 <h2>About Me 💬</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m a Software Developer with deep internest on **Backend Development** abd working with **Cloud native** applications.
+- 🔭 I’m a Software Developer with deep internest on **Backend Development** and working with **Cloud native** applications.
 
 <!-- - 🌱 I’m currently learning **Kubernetes** -->
 
