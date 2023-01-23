@@ -2,12 +2,13 @@
 <img width="100%" height = "250px" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg" alt="cover" />
 </div>
 
-<p align="center">
+<p align="center" style="color:Lime;font-size:28px;font-family:'Fira Code">Sadham -Hussian</p>
+<!-- <p align="center">
   <a href="https://github.com/Sadham-Hussian" style="color:Lime;font-size:28px;font-family:'Fira Code';">
-    <!-- <p align="center" style="color:red;">Sadham Hussian</p> -->
-    Sadham-Hussian
+    <p align="center" style="color:red;">Sadham Hussian</p>
+
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
