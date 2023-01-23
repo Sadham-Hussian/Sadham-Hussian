@@ -4,7 +4,9 @@
 
 <p align="center">
   <a href="https://github.com/Sadham-Hussian" style="color:Lime;font-size:28px;font-family:'Fira Code';">
-    <p align="center" style="color:red;">Sadham Hussian</p></a>
+    <!-- <p align="center" style="color:red;">Sadham Hussian</p> -->
+    Sadham-Hussian
+  </a>
 </p>
 
 <p align="center">
@@ -138,8 +140,8 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Sadham-Hussian&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sadham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadham-Hussian&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Sadham-Hussian&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00FF00&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sadham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadham-Hussian&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00FF00&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 <br/>
 
 </details>
